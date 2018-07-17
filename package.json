@@ -1,13 +1,27 @@
 {
-	"name": "javascript-demo-2-themelet",
-	"version": "1.0.0",
-	"main": "package.json",
-	"keywords": [
-		"liferay-theme"
-	],
-	"liferayTheme": {
-		"screenshot": "",
-		"themelet": true,
-		"version": "7.0"
-	}
+  "name": "javascript-demo-2-themelet",
+  "version": "1.0.0",
+  "main": "package.json",
+  "keywords": [
+    "liferay-theme"
+  ],
+  "liferayTheme": {
+    "screenshot": "",
+    "themelet": true,
+    "version": "7.0"
+  },
+  "description": "Some description",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulocfjunior/javascript-demo-2-themelet.git"
+  },
+  "author": "Paulo Cézar <paulo.junior@objective.com.br>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulocfjunior/javascript-demo-2-themelet/issues"
+  },
+  "homepage": "https://github.com/paulocfjunior/javascript-demo-2-themelet#readme"
 }
